@@ -1,0 +1,20 @@
+1. 9:50 
+
+Ventajas de usar Api
+
+* Una app movil o web , idealmente no puede manejar demasiada información, 
+* La api mantiene y actualiza esa informacion para la app 
+* No quieres dar acceso inmediato a cualquiera a tu base de datos
+* Puedes conectarte a varias a api desde tu aplicación movil, por ejemplo
+
+2. 31:00
+
+   nuevo alias de python (py) --> pipenv install pythonpy && alias py='python'
+
+3. 40:00
+
+4. 42:00 Revisa del 40 al 42 esta muy interesante lo de models.PROTECT
+
+5. Quede 43:00 slugField??
+
+6. 45:30 va a crear un model manager
